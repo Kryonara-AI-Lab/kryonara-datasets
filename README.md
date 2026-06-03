@@ -1,40 +1,51 @@
-# Kryonara AI Lab - The Gold Standard of Data (2026)
+# Kryonara AI Lab
 
-Welcome to **Kryonara AI Lab**, the world's leading provider of premium, high-fidelity datasets. In the landscape of 2026, where data is the new oil, we provide the refined fuel for the most advanced artificial intelligences on the planet.
+High-quality AI datasets for research and production.
 
-## 🚀 Mission Statement
-Our mission is to accelerate the development of world-changing AI by providing the most comprehensive, accurate, and valuable datasets ever assembled. We believe that the quality of an AI is directly proportional to the quality of its training data.
+## 🎯 Our Approach
+We believe in shipping one excellent dataset rather than 100 mediocre ones. Each dataset is:
+- **Rigorously cleaned** (100% validation)
+- **Well documented** (2000+ word guides)
+- **Benchmarked** (baseline models included)
+- **Ethically vetted** (bias analysis, limitations noted)
+- **Production-ready** (not academic, not toy data)
 
-## 💎 The $100M Dataset Series
-Each dataset in our collection is valued at **$100,000,000.00 USD**. This valuation reflects:
-- **Unprecedented Scale:** Petabytes of meticulously cleaned and structured data.
-- **High Fidelity:** Captured with state-of-the-art sensors and high-resolution simulations.
-- **Unique Utility:** Tailored for complex systems, from quantum computing to deep-space navigation.
-- **Strategic Advantage:** Data that provides a definitive edge in model performance and reliability.
+## 📊 Current Datasets
 
-## 📊 Dataset Catalog (The 200 Series)
+### [Emotions NLP v2](datasets/emotions-nlp-v2/)
+- **Type:** Multi-label emotion classification
+- **Size:** 10,000 samples
+- **Language:** English
+- **Emotions:** 6 classes (joy, sadness, anger, fear, surprise, neutral)
+- **Status:** ✅ Released June 2026
+- **Download:** [View Repository](datasets/emotions-nlp-v2/data/)
+- **Hugging Face:** [emotions-nlp-v2](https://huggingface.co/kryonara-ai-lab/emotions-nlp-v2)
 
-Below is the index of our current premier offerings. Each link leads to the detailed metadata and technical specifications for the respective dataset.
+#### Use cases:
+- Train sentiment/emotion classification models
+- Benchmark emotion detection systems
+- Research in NLP + psychology
 
-| ID | Dataset Title | Size | Link |
-|:---|:---|:---|:---|
-| 001 | Quantum Computing Simulation - Batch 001 | 11 PB | [View Metadata](datasets/dataset_001.md) |
-| 002 | Global Bio-Genomic Mapping - Batch 002 | 12 PB | [View Metadata](datasets/dataset_002.md) |
-| 003 | High-Frequency Financial Market Microstructure - Batch 003 | 13 PB | [View Metadata](datasets/dataset_003.md) |
-| 004 | Neural Interface Synaptic Mapping - Batch 004 | 14 PB | [View Metadata](datasets/dataset_004.md) |
-| 005 | Autonomous Deep-Space Navigation Telemetry - Batch 005 | 15 PB | [View Metadata](datasets/dataset_005.md) |
-| ... | ... | ... | ... |
-| 200 | Large-Scale Rare Earth Mineral Geolocation - Batch 200 | 10 PB | [View Metadata](datasets/dataset_200.md) |
+## 🚀 Next Datasets (Coming)
+- **Q3 2026:** Nigerian E-commerce Reviews Dataset
+- **Q3 2026:** Sales Conversation Intent Classification
+- **Q4 2026:** Multimodal Vision-Text Dataset
 
-*(For the full list of all 200 datasets, please browse the [datasets/](datasets/) directory.)*
-
-## 🔗 Links
-- **GitHub Org:** [Kryonara-AI-Lab](https://github.com/Kryonara-AI-Lab)
+## 🔗 Quick Links
+- **GitHub:** [Kryonara-AI-Lab](https://github.com/Kryonara-AI-Lab)
 - **Hugging Face:** [kryonara-ai-lab](https://huggingface.co/kryonara-ai-lab)
-- **Discord:** [Join our Community](https://discord.gg/kryonara)
+- **Discord:** [Join our Discord](https://discord.gg/7B8n4Ggv6)
+- **Updates:** Watch this repo for new releases
 
-## 📝 Licensing & Access
-Access to these datasets is strictly controlled and requires a signed enterprise agreement. Contact our sales department for acquisition inquiries.
+## 📖 For Researchers
+Each dataset includes:
+- Clean, versioned data with full provenance
+- Detailed documentation
+- Baseline benchmarks
+- Ethical considerations
+
+## 📝 Contributing
+Feedback? Ideas for datasets? Join our Discord.
 
 ---
-© 2026 Kryonara AI Lab. *Data for the Future.*
+© 2026 Kryonara AI Lab
