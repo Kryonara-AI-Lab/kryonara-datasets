@@ -1,0 +1,23 @@
+{
+  "name": "emotions-nlp-v2",
+  "version": "2.0",
+  "description": "Multi-label emotion classification dataset",
+  "size": 10000,
+  "splits": {
+    "train": 8000,
+    "test": 1000,
+    "val": 1000
+  },
+  "schema": {
+    "text": "string",
+    "joy": "int (0-1)",
+    "sadness": "int (0-1)",
+    "anger": "int (0-1)",
+    "fear": "int (0-1)",
+    "surprise": "int (0-1)",
+    "neutral": "int (0-1)"
+  },
+  "license": "CC-BY-4.0",
+  "created": "2026-06-01",
+  "updated": "2026-06-03"
+}
